@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "description": "WinIsland 系统工具",
-  "url": "https://ghywinget.netlify.app/WinIsland.exe",
+  "url": "https://ghyscoop.netlify.app/WinIsland.exe",
   "bin": "WinIsland.exe"
 }
