@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "description": "Trae CN 开发工具",
+  "url": "https://ghywinget.netlify.app/Trae%20CN-Setup-x64.exe",
+  "bin": "Trae CN-Setup-x64.exe"
+}
